@@ -14,7 +14,7 @@ Activity 2: Pygame Sprites
 
 Activity 3: 3D Geometry
 - Python source code
-- Execution screenshot
+- Execution video
 - Technical write-up
 
 Activity 4: 3D Projections

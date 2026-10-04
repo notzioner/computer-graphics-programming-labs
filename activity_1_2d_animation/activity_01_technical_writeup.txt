@@ -1,4 +1,4 @@
-Activity 1: 2D Animation Principles & Kinematics Engine
+Activity 1: 2D Animation Principles & Kinematics Engine (Tweening & Morphing
 
 This activity uses Python and Pygame to create three different animations.
 

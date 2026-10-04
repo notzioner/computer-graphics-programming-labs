@@ -1,4 +1,4 @@
-Activity 2: Interactive Game Architecture: Game Loop & Sprite Collision
+# Activity 2: Interactive Game Architecture: Game Loop & Sprite Collision
 
 This activity uses Python and Pygame to create a simple interactive game.
 

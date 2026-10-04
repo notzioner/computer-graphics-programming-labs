@@ -1,4 +1,4 @@
-Activity 4: 3D Projection Engine
+# Activity 4: 3D Projection Engine: Orthographic, Oblique & Perspective
 
 This activity uses Python and Pygame to create a 3D projection engine that displays a wireframe cube.
 

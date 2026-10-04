@@ -27,6 +27,6 @@ A collection of Python-based Computer Graphics Programming laboratory activities
   - `activity_05_execution.mp4`
   - `activity_05_technical_writeup.md`
 
-Additional Files:
-JAMOLIN Semi-Final Activity 1-5.txt (Git Repository Link)
-requirements.txt (Python Libraries)
+## Additional Files
+- `JAMOLIN Semi-Final Activity 1-5.txt` — Git Repository Link
+- `requirements.txt` — Python Libraries

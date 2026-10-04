@@ -1,3 +1,6 @@
+# Activity 1: 2D Animation Principles & Kinematics
+# Engine (Tweening & Morphing)
+
 import pygame
 import math
 import sys

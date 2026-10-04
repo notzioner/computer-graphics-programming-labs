@@ -2,6 +2,8 @@
 A collection of Python-based Computer Graphics Programming laboratory activities covering 2D animation, Pygame game architecture, 3D geometry, 3D projections, and OpenGL graphics pipelines.
 
 # git repository contents
+Git Repository Link: github.com/notzioner/computer-graphics-programming-labs
+
 - **Activity 1 – 2D Animation**
   - `activity_01_animation_kinematics.py`
   - `activity_01_execution.mp4`
@@ -28,5 +30,5 @@ A collection of Python-based Computer Graphics Programming laboratory activities
   - `activity_05_technical_writeup.md`
 
 Additional Files:
-- `JAMOLIN Semi-Final Activity 1-5.txt` — Git Repository Link
+- `README.md` — Project Overview and Documentation
 - `requirements.txt` — Python Libraries

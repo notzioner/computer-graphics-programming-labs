@@ -1,4 +1,4 @@
-Activity 5: Hardware Graphics Pipeline & Shading with PyOpenGL
+# Activity 5: Hardware Graphics Pipeline & Shading with PyOpenGL
 
 This activity uses Python, Pygame, and PyOpenGL to create a simple 3D graphics program.
 

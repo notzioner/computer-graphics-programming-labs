@@ -1,0 +1,26 @@
+Activity 5: Hardware Graphics Pipeline & Shading with PyOpenGL
+
+This activity uses Python, Pygame, and PyOpenGL to create a simple 3D graphics program.
+
+First, an OpenGL context was created using Pygame with double buffering. A perspective projection and depth testing were also enabled to properly display the 3D objects.
+
+Second, a colored 3D cube was created using GL_QUADS. Different colors were assigned to the vertices to make each face visually distinct.
+
+Third, an articulated arm was created using multiple cubes. Matrix transformations such as glTranslatef(), glRotatef(), glScalef(), and glPushMatrix() / glPopMatrix() were used to create the different parts of the arm.
+
+Fourth, two transparent cubes were added using alpha blending with GL_SRC_ALPHA and GL_ONE_MINUS_SRC_ALPHA.
+
+The objects continuously rotate during the program. Keyboard controls were also added to move and rotate the entire 3D scene.
+
+The program includes:
+
+W / S – Move forward / backward
+A / D – Move left / right
+Q / E – Move up / down
+Arrow Keys – Rotate the scene
+R – Reset the position and rotation
+ESC – Quit the program
+
+Depth buffering is used to properly handle objects in front of or behind each other, while alpha blending allows the transparent cubes to overlap with other objects.
+
+The program runs at 60 FPS for smooth real-time rendering.

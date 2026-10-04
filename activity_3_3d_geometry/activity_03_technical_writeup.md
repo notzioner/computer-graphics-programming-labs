@@ -1,4 +1,4 @@
-Activity 3: 3D Coordinate Geometry & Spatial Bounding Volumes (AABB/Sphere)
+# Activity 3: 3D Coordinate Geometry & Spatial Bounding Volumes (AABB/Sphere)
 
 This activity uses Python and Pygame to create a simple 3D coordinate geometry and collision detection program.
 
